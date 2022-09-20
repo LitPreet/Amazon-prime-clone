@@ -1,3 +1,11 @@
+
+
+<img width="948" alt="amzon" src="https://user-images.githubusercontent.com/77205201/191200375-548b42a7-b350-4625-8dbb-cb77a1bd00f1.png">
+
+To see full demo of this project🔽 click on this link
+https://amazon-prime-11.netlify.app
+
+
 This project is a simplified front end clone of Amazon Prime.
  It was created with TailwindCSS (Grid and Flexbox).
 
